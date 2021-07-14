@@ -1,8 +1,9 @@
 header.header {
-  background: var(--blue);
+  background: rgb(114, 0, 158);
+  background: linear-gradient(45deg, rgba(114, 0, 158, 1) 0%, rgba(56, 108, 208, 1) 75%, rgba(0, 212, 255, 1) 100%);
   padding-top: 2rem;
-  
-  > div {
+
+  >div {
     max-width: 1120px;
     margin: 0 auto;
 
