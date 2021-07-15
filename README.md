@@ -16,7 +16,7 @@ Nesse desafio, criamos uma aplicação de gestão de tarefas.
 
 - Marcar e desmarcar uma tarefa como concluída
 
-## Testes da alicação
+## Testes da aplicação
 
 - `should be able to add a task`
 Para que esse teste passe, você deve permitir que task seja criada e com isso, exibida em tela. As taks criadas devem conter os atributos seguindo o 
